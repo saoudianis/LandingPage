@@ -1,0 +1,42 @@
+.center{
+                text-align: center;
+            }
+.navbar-brand{
+                font-size: 1.6em;
+            }
+            body{
+                margin: 0;
+                padding: 0;
+                background-color: azure;
+            }
+            #topContainer{
+                background-image: url(../img/bg.jpg);
+                background-position: center center;
+                
+                width: 100%;
+                background-size: cover;
+                background-color: #464646; 
+            }
+            #toprow{
+                text-align: center;
+                color: aliceblue;
+            }
+            #toprow h1{
+                font-size: 300%;
+            }
+            .bold{
+                font-weight: bold;
+            }
+            #footer{
+                background-color: #343a40;
+            }
+            .form-group{
+                margin-right: 15px;
+                margin-top: 10px;
+            }
+            .btn{
+                margin-top: 10px;
+            }
+            .Wcol{
+                color: azure;
+            }
